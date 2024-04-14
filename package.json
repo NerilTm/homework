@@ -1,0 +1,23 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerilTm/game.git"
+  },
+  "author": "NerilTm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerilTm/game/issues"
+  },
+  "homepage": "https://github.com/NerilTm/game#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
